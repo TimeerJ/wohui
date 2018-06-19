@@ -1,0 +1,12 @@
+{
+  "name": "wohui",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:TimeerJ/wohui.git",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
